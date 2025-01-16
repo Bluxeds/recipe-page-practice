@@ -27,7 +27,7 @@ hr {
 }
 
 body {
-  background-color: #f3e5d8;
+  background-color: hsl(29, 53%, 90%);
 }
 
 .main-div {
@@ -37,6 +37,7 @@ body {
   height: auto;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
+  box-shadow: 2px 2px 4px;
 }
 
 img {
